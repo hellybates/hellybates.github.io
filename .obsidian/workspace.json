@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG.md",
+                "file": "_pages/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGELOG.md",
+                "file": "_pages/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGELOG.md",
+                "file": "_pages/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG.md"
+                "file": "_pages/about.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "4902dca99ac7092a",
   "lastOpenFiles": [
+    "_pages/archive-layout-with-content.md",
+    "CHANGELOG.md",
     "README.md",
     "CONTRIBUTING.md",
     "_pages/about.md"
