@@ -18,6 +18,8 @@ I always loved space, and knew that if possible, that was what I wanted to focus
 
 After my PhD I spent a year as meteorite curator at the Natural History Museum. During that time I was responsible for the management, organisation and conservation of the 5000 meteorite speimens in the collection. During my time as curator, the [Winchcombe meteorite](https://www.science.org/doi/10.1126/sciadv.abq3925) fell, the first meteorite to fall and be recovered in the UK for 30 years, and I was partly in charge of the intial management and curation efforts.
 
+Following my curation role, I moved back into research and since October 2021 I have been postdoctoral researcher, still based at the Natural History Museum - they can't get rid of me!
+
 My work and research
 ======
 I've got a number of projects that I am currently working on. 
