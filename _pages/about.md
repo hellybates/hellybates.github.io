@@ -12,7 +12,7 @@ Hi, I'm Helena, a postdoctoral researcher at the Natural History Museum in Londo
 
 My background
 ======
-I always loved space, and knew it was what I wanted to focus on. At school, I did chemistry, physics and maths at A level, with an AS level in biology. I then went on to study an undergraduate degree in Geophysics at Imperial College, London. I stayed for 4 years and came out with an integrated master's degree. During my time at Imperial I did an internship at the Natural History Musuem, working in the lab on meteorites. I loved it so much I ended up doing a PhD after my degree, based at the Museum, but facilitated through Oxford University, where I was part of the space instrumentation group. 
+I always loved space, and knew that if it were possible, that was what I wanted to focus on as my career. At school, I did chemistry, physics and maths at A level, with an AS level in biology. I then went on to study an undergraduate degree in Geophysics at Imperial College, London. I studyed for 4 years and came out with an integrated master's degree. During my time at Imperial I did a project at the Natural History Musuem, working in the lab on meteorites. I loved it so much I ended up doing a PhD after my degree, based at the Museum, but facilitated through Oxford University, where I was part of the space instrumentation group. 
 
 My work and research
 ======
