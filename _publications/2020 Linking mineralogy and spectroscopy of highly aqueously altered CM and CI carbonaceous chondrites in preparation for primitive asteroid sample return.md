@@ -6,7 +6,7 @@ excerpt: 'We collected visible and near-infrared (VNIR) and mid infrared (MIR) r
 date: 2020
 venue: 'Meteoritics and Planetary Science'
 paperurl: 'http://hellybates.github.io/files/Bates2020.pdf'
-citation: 'Your Name, You. (2020). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Bates, H. C., King, A. J., Donaldson Hanna K. L., Bowles, N. E., and Russell, S. S.  (2020). Linking mineralogy and spectroscopy of highly aqueously altered CM and CI carbonaceous chondrites in preparation for primitive asteroid sample return, <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
