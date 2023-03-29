@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Helena, a postdoctoral researcher at the Natural History Museum in London. I'm a planetary scientist, working with meteorites to understand more about the formation and evolution of our Solar System. 
+Hi, I'm Helena, a postdoctoral researcher at the Natural History Museum in London. I'm a planetary scientist, working with meteorites to understand more about the formation and evolution of our Solar System. I'm interested in linking the meteorites we have on Earth to their parent body asteroids still in space by linking lab data to telescopic and spacecraft observations. Most of my work is focussed on the meteorites and asteroids that look like at some point in their pasts they were exposed to water, because the questions about where water on Earth came from, and how it is distributed throughout the rest of the solar system have lots of implications for the development of life
 
 My background
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I always loved space, and knew it was what I wanted to focus on. At school, I did chemistry, physics and maths at A level, with an AS level in biology. I then went on to study an undergraduate degree in Geophysics at Imperial College, London. I stayed for 4 years and came out with an integrated master's degree. During my time at Imperial I did an internship at the Natural History Musuem, working in the lab on meteorites. I loved it so much I ended up doing a PhD after my degree, based at the Museum, but facilitated through Oxford University, where I was part of the space instrumentation group. 
 
 My work and research
 ======
