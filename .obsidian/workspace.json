@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_publications/2021 A Spectral Investigation of Aqueously and Thermally Altered CM, CM-An, and CY Chondrites Under Simulated Asteroid Conditions for Comparison With OSIRIS-REx and Hayabusa2 Observations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_publications/2021 A Spectral Investigation of Aqueously and Thermally Altered CM, CM-An, and CY Chondrites Under Simulated Asteroid Conditions for Comparison With OSIRIS-REx and Hayabusa2 Observations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_publications/2021 A Spectral Investigation of Aqueously and Thermally Altered CM, CM-An, and CY Chondrites Under Simulated Asteroid Conditions for Comparison With OSIRIS-REx and Hayabusa2 Observations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/about.md"
+                "file": "_publications/2021 A Spectral Investigation of Aqueously and Thermally Altered CM, CM-An, and CY Chondrites Under Simulated Asteroid Conditions for Comparison With OSIRIS-REx and Hayabusa2 Observations.md"
               }
             }
           }
@@ -148,14 +148,16 @@
   },
   "active": "4902dca99ac7092a",
   "lastOpenFiles": [
-    "_pages/publications.md",
-    "_publications/2015-10-01-paper-title-number-3.md",
     "_publications/2020 Linking mineralogy and spectroscopy of highly aqueously altered CM and CI carbonaceous chondrites in preparation for primitive asteroid sample return.md",
+    "_publications/2021 A Spectral Investigation of Aqueously and Thermally Altered CM, CM-An, and CY Chondrites Under Simulated Asteroid Conditions for Comparison With OSIRIS-REx and Hayabusa2 Observations.md",
     "_publications/2010-10-01-paper-title-number-2.md",
+    "_pages/about.md",
+    "files/Bates2021.pdf",
+    "files/Bates2021.pdf.crdownload",
+    "_pages/publications.md",
     "files/Bates2020.pdf",
     "files/Meteorit   Planetary Scien - 2019 - Bates - Linking mineralogy and spectroscopy of highly aqueously altered CM and CI.pdf",
     "files/paper1.pdf",
-    "_pages/about.md",
     "_pages/archive-layout-with-content.md",
     "CHANGELOG.md",
     "README.md",
