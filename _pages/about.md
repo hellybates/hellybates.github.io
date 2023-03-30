@@ -32,10 +32,10 @@ I've got a number of projects that I am currently working on.
 
 Techniques
 ======
-I use a variety of instruments and experimental techniques to do my research. Here are the main ones.
-1. X-ray diffraction (XRD)
-1. Infrared (IR) spectroscopy
-1. Thermogravimetric analysis (TGA)
+I use a variety of instruments and experimental techniques to do my research.
+1. *X-ray diffraction (XRD)*: This is a non destructive technique which investigates the crystalline structure of minerals. I primarily use powder XRD of complex materials (meteorites) to identify what minerals are present in the sample, and in what abundance. 
+1. *Infrared (IR) spectroscopy*: This technique measures the interaction of infrared light with a material. There are a number of different types of IR spectroscopy which I use; diffuse reflectance spectroscopy can be collected from powdered meteorites, micro reflectance spectroscopy collects IR light reflected from solid samples like chips and thin sections, and emissivity can be collected from large amounts of powdered meteorites in specialised environmental chambers.
+1. *Thermogravimetric analysis (TGA)*:
 
 Create content & metadata
 ------
