@@ -24,7 +24,7 @@ My work and research
 ======
 I've got a number of projects that I am currently working on. 
 1. I'm looking at the occurance of 'meteorites within meteorites' - certain types of meteorites have a high proportion of small clasts of other meteorite types embedded within them (we call these clasts xenoltihs). I am investigating what they are, where they are and where they might have come from.
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. I've also been investigating an interesting group of anomalous carbonaceous chondrites, including the C2-ungrouped Tagish Lake and Tarda meteorites. These rocks have an unusually heavy oxygen isotopic composition, high magnetite and sulfide abundances and different phyllosilicate compositions from other similar meteorites. I am trying to find more like them, potentially forming a new group of carbonaceous chondrites!
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
