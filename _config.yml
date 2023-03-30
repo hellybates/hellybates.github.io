@@ -148,6 +148,7 @@ exclude:
   - vendor
   - _portfolio
   - _pages/cv
+  - _pages/portfolio
 keep_files:
   - .git
   - .svn
