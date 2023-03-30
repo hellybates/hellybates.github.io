@@ -30,9 +30,12 @@ I've got a number of projects that I am currently working on.
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Techniques
+======
+I use a variety of instruments and experimental techniques to do my research. Here are the main ones.
+1. X-ray diffraction (XRD)
+1. Infrared (IR) spectroscopy
+1. Thermogravimetric analysis (TGA)
 
 Create content & metadata
 ------
