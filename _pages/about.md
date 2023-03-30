@@ -23,19 +23,18 @@ Following my curation role, I moved back into research and since October 2021 I 
 My work and research
 ======
 I've got a number of projects that I am currently working on. 
-1. I'm looking at the occurance of 'meteorites within meteorites' - certain types of meteorites have a high proportion of small clasts of other meteorite types embedded within them (we call these clasts xenoltihs). I am investigating what they are, where they are and where they might have come from.
-1. I've also been investigating an interesting group of anomalous carbonaceous chondrites, including the C2-ungrouped Tagish Lake and Tarda meteorites. These rocks have an unusually heavy oxygen isotopic composition, high magnetite and sulfide abundances and different phyllosilicate compositions from other similar meteorites. I am trying to find more like them, potentially forming a new group of carbonaceous chondrites!
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
+I'm looking at the occurance of 'meteorites within meteorites' - certain types of meteorites have a high proportion of small clasts of other meteorite types embedded within them (we call these clasts xenoltihs). I am investigating what they are, where they are and where they might have come from.
+
+I've also been investigating an interesting group of anomalous carbonaceous chondrites, including the C2-ungrouped Tagish Lake and Tarda meteorites. These rocks have an unusually heavy oxygen isotopic composition, high magnetite and sulfide abundances and different phyllosilicate compositions from other similar meteorites. I am trying to find more like them, potentially forming a new group of carbonaceous chondrites!
+
 
 Techniques
 ======
 I use a variety of instruments and experimental techniques to do my research.
 1. *X-ray diffraction (XRD)*: This is a non destructive technique which investigates the crystalline structure of minerals. I primarily use powder XRD of complex materials (meteorites) to identify what minerals are present in the sample, and in what abundance. 
 1. *Infrared (IR) spectroscopy*: This technique measures the interaction of infrared light with a material. There are a number of different types of IR spectroscopy which I use; diffuse reflectance spectroscopy can be collected from powdered meteorites, micro reflectance spectroscopy collects IR light reflected from solid samples like chips and thin sections, and emissivity can be collected from large amounts of powdered meteorites in specialised environmental chambers.
-1. *Thermogravimetric analysis (TGA)*:
+1. *Thermogravimetric analysis (TGA)*: This is a deceptively simple technique where the mass of a sample is monitored as it is heated to a high temperature. It allows us to measure the abundance and type of minerals which host volatile molecules, such as water. 
 
 Create content & metadata
 ------
@@ -55,4 +54,3 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
