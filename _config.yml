@@ -146,9 +146,6 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - _portfolio
-  - _pages/cv
-  - _pages/portfolio
 keep_files:
   - .git
   - .svn
