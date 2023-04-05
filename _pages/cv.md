@@ -19,18 +19,10 @@ Education
 * 2012-2016 MSci in Geophysics, Imperial College London 
 * 2016-2020 DPhil in Atmospheric, Oceanic and Planetary Physics, Oxford University
 
-Work experience
+Technical Expertise
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Handling and preparation of meteorite samples; X-ray diffraction (XRD); micro and diffuse infrared (IR) reflectance spectroscopy; thermal emission spectroscopy; thermogravimetric analysis (TGA); micro computed tomography (μ-CT); scanning electron microscopy (SEM); developing analytical techniques (Python, Matlab)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
