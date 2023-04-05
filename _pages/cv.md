@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+Experience
+======
+* **2021-present** Postdoctoral researcher, Natural History Museum, London
+* **2021** Meteorite curator, Natural History Museum, London 
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2012-2016 MSci in Geophysics, Imperial College London 
+* 2016-2020 DPhil in Atmospheric, Oceanic and Planetary Physics, Oxford University
 
 Work experience
 ======
