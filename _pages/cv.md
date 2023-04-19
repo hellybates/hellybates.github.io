@@ -31,6 +31,15 @@ Teaching
 * *2021* **Solar System formation and evolution: Meteorites, invited guest lecture,** Imperial College London
 * *2017* **Masters’ Student Co-Advisor,** Imperial College London, Evelyn Mason
 
+Awards and Achievements
+------
+* *2021* **Doctoral Graduation Prize,** Oxford University
+* *2018-2021* **Graduate Scholar,** Oxford University
+* *2018* **Amelia Earhart Fellowship,** Zonta International
+* *2018* **Career Development Award,** Lunar and Planetary Institute
+* *2016* **Governors' Prize in Geophysics,** Imperial College London
+* *2016* **Best Poster Presentation,** Magnetic Interactions Conference
+
 Practical Experience
 ------
 * *2022-present* **OSIRIS-REx Participating Scientist Collaborator,** NASA
