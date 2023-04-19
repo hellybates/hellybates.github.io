@@ -45,7 +45,7 @@ Invited talks
 
 Outreach
 ------
-* *2016-present* Invited talks, for universities, schools, societies and the general public.
+* *2016-present* Invited talks for universities, schools, societies and the general public.
 * *2015-present* Outreach activities at the Natural History Museum, including Nature Live talks, Science Uncovered, Science Lates, Surprising Science, Lyme Regis Fossil Festival, NHM Family Festival, NHM Masterclasses, venue hire and media events.
 * *2022* The Story of the Winchcombe Meteorite (organising committee), Royal Society Summer Exhibition
 * *2022* The Winchcombe Meteorite, Cheltenham Science Festival
