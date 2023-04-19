@@ -10,17 +10,17 @@ redirect_from:
 {% include base_path %}
 
 Positions
-======
+------
 * *2021-present* Postdoctoral researcher, Natural History Museum, London
 * *2021* Meteorite curator, Natural History Museum, London 
 
 Education
-======
+------
 * *2012-2016* MSci in Geophysics, Imperial College London 
 * *2016-2020* DPhil in Atmospheric, Oceanic and Planetary Physics, Oxford University
 
 Technical Expertise
-======
+------
 Handling and preparation of meteorite samples; X-ray diffraction (XRD); micro and diffuse infrared (IR) reflectance spectroscopy; thermal emission spectroscopy; thermogravimetric analysis (TGA); micro computed tomography (μ-CT); scanning electron microscopy (SEM); developing analytical techniques (Python, Matlab)
 
 Teaching
@@ -29,6 +29,16 @@ Teaching
 * *2022* Undergradute Research Oppotunity Supervisor, Imperial College London, Chung Yan Fu
 * *2021* Solar System formation and evolution: Meteorites, invited guest lecture, Imperial College London
 * *2017* Masters’ Student Co-Advisor, Imperial College London, Evelyn Mason
+
+Invited talks
+------ 
+* *2022* Invited talk, Meteoroids conference
+* *2022* Seminars, University College London and Queens University Belfast
+* *2021* Institute for Research in Schools conference 2021
+
+Practical Experience
+------
+
 
 <!-- Publications -->
 <!-- ====== -->
