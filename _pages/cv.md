@@ -23,8 +23,12 @@ Technical Expertise
 ======
 Handling and preparation of meteorite samples; X-ray diffraction (XRD); micro and diffuse infrared (IR) reflectance spectroscopy; thermal emission spectroscopy; thermogravimetric analysis (TGA); micro computed tomography (μ-CT); scanning electron microscopy (SEM); developing analytical techniques (Python, Matlab)
 
-Skills
-======
+Teaching
+------
+* *2022-present* PhD Supervisor, Emelia Branagan-Harris
+* *2022* Undergradute Research Oppotunity Supervisor, Imperial College London, Chung Yan Fu
+* *2021* Solar System formation and evolution: Meteorites, invited guest lecture, Imperial College London
+* *2017* Masters’ Student Co-Advisor, Imperial College London, Evelyn Mason
 
 <!-- Publications -->
 <!-- ====== -->
