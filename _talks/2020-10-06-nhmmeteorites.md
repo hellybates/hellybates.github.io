@@ -1,5 +1,5 @@
 ---
-title: "Natural History Museum Live: Meteorites"
+title: "Natural History Museum Live: Meteorites, Oct 2020"
 collection: talks
 type: "Talk"
 permalink: 2020-10-06-nhmmeteorites
