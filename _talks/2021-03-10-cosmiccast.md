@@ -3,9 +3,8 @@ title: "The Cosmic Cast Podcast"
 collection: talks
 type: "Talk"
 permalink: 2021-03-10-cosmiccast
-venue: "UC San Francisco, Department of Testing"
 date: 2021-03-10
-location: London, UK"
+location: "London, UK"
 ---
 
 <div markdown="0">
