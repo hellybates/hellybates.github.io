@@ -1,5 +1,5 @@
 ---
-title: "BBC News: Winchcombe"
+title: "The Jack Lawrence Podcast"
 collection: talks
 type: "Talk"
 permalink: 2022-02-05-jlpodcast
