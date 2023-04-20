@@ -3,9 +3,8 @@ title: "The Cosmic Cast Podcast"
 collection: talks
 type: "Talk"
 permalink: 2020-10-06-nhmmeteorites
-venue: "UC San Francisco, Department of Testing"
 date: 2020-10-06
-location: London, UK"
+location: "London, UK"
 ---
 
 <div markdown="0">
