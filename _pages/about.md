@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Helena, a postdoctoral researcher at the Natural History Museum in London. I'm a planetary scientist, working with meteorites to understand more about the formation and evolution of our Solar System. 
 
-I'm interested in matching the meteorites we have on Earth to their parent body asteroids still in space by linking lab data to telescopic and spacecraft observations. Most of my work is focussed on the meteorites and asteroids that look like at some point in their pasts they were exposed to water, because the questions about where water on Earth came from, and how it is distributed throughout the rest of the Solar System, have lots of implications for the development of life.
+I'm interested in matching the meteorites we have on Earth to their parent body asteroids still in space by linking lab data to telescopic and spacecraft observations. Most of my work is focussed on the meteorites and asteroids that look like at some point in their pasts they were exposed to water. The questions about where water on Earth came from, and how it is distributed throughout the rest of the Solar System, have lots of implications for the development of life.
 
 My background
 ------
