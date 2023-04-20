@@ -8,7 +8,7 @@ location: "London, UK"
 ---
 
 <div markdown="0">
-	<iframe width="100%" height="250" src="https://www.youtube.com/embed/bgV_SLjvPZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/bgV_SLjvPZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <!--This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
