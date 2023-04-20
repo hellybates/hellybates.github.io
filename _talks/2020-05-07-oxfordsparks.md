@@ -1,5 +1,5 @@
 ---
-title: "Pythagorean Astronomy Podcast"
+title: "DEBATE! Which planet would provide the best refuge during lockdown?"
 collection: talks
 type: "Talk"
 permalink: 2020-05-07-oxfordsparks
