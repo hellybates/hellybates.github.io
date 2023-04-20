@@ -2,13 +2,13 @@
 title: "BBC News: Winchcombe"
 collection: talks
 type: "Talk"
-permalink: 2021-05-13-bbc
-date: 2021-05-13
+permalink: 2022-02-05-jlpodcast
+date: 2022-02-05
 location: "London, UK"
 ---
 
 <div markdown="0">
-	<iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/news/av-embeds/57099787"></iframe>
+	<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0vSgPLkD7MeKP3it6kCved?utm_source=generator" width="100%" height="102" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
 <!--This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
