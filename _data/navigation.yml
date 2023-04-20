@@ -2,12 +2,14 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "Science Communication"
+    url: /sciencecommunication/ 
+    
   - title: "CV"
     url: /cv/    
 
-  #- title: "Teaching"
-    #url: /teaching/    
+   
     
   #- title: "Guide"
     #url: /markdown/
