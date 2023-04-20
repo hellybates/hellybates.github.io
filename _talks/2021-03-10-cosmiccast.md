@@ -5,7 +5,7 @@ type: "Talk"
 permalink: 2021-03-10-cosmiccast
 venue: "UC San Francisco, Department of Testing"
 date: 2021-03-10
-location: "San Francisco, California"
+location: London, UK"
 ---
 
 <div markdown="0">
