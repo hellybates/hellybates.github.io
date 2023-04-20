@@ -1,5 +1,5 @@
 ---
-title: "Pythagorean Astronomy Podcast"
+title: "Destination: Space! Space Rocks"
 collection: talks
 type: "Talk"
 permalink: 2021-03-18-destinationspace
