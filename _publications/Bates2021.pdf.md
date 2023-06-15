@@ -1,7 +1,7 @@
 ---
 title: "A Spectral Investigation of Aqueously and Thermally Altered CM, CM-An, and CY Chondrites Under Simulated Asteroid Conditions for Comparison With OSIRIS-REx and Hayabusa2 Observations"
 collection: publications
-permalink: /publication/2021-http://hellybates.github.io/files/Bates2021
+permalink: /publication/2021-http://hellybates.github.io/files/Bates2021.pdf
 excerpt: 'We report midinfrared (MIR) emissivity spectra (5.5–50 µm) obtained under ambient and simulated asteroid environment conditions and near-infrared (NIR) reflectance spectra (2–5 µm) of CM and CY chondrite fine-particulate (<35 µm) powders for which bulk mineralogy was determined using X-ray diffraction.'
 date: 2021
 venue: 'Journal of Geophysical Research: Planets'
