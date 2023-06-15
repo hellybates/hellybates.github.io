@@ -1,7 +1,7 @@
 ---
 title: "The Yamato-type (CY) carbonaceous chondrite group: Analogues for the surface of asteroid Ryugu?"
 collection: publications
-permalink: /publication/2019-King2019
+permalink: /publication/2019-KingCYs
 excerpt: 'We introduce a new carbonaceous chondrite group, the CY chondrites, which have experienced aqueous and thermal alteration.'
 date: 2019
 venue: 'Geochemistry'
