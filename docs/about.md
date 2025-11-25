@@ -26,4 +26,8 @@
 
 I'm a planetary scientist at the Natural History Museum. 
 
-Previously, I completed undergraduate and masters degree in Geophysics at Imperial College London, and my DPhil in Physics at Oxford University and the Natural History Museum. In 2021 I was the interim meteorite curator at the Natural History Museum, during which the meteorite Winchcombe fell - the first meteorite to fall in the UK for 30 years. Since 2022 I have been doing postdoctoral research in the planetary materials group at the Natural History Museum, focussing on ancient meteorites that have been exposed to water.
+Previously, I completed undergraduate and masters degree in Geophysics at Imperial College London, and my DPhil in Physics at Oxford University and the Natural History Museum. 
+
+In 2021 I was the interim meteorite curator at the Natural History Museum, during which the meteorite Winchcombe fell - the first meteorite to fall in the UK for 30 years. 
+
+Since 2022 I have been doing postdoctoral research in the planetary materials group at the Natural History Museum, focussing on ancient meteorites that have been exposed to water.
