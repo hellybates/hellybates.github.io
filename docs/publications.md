@@ -22,7 +22,6 @@
             <span class="tag tag-safety">Water content</span>
             <span class="tag tag-safety">Magnetics</span>
             <span class="tag tag-safety">IR Spectroscopy</span>            
-            <a href="https://doi.org/10.1111/maps.14224" class="tag tag-arxiv">DOI</a>
         </div>
     </div>
 </div>
@@ -46,7 +45,6 @@
             <span class="tag tag-safety">Element Analysis</span>
             <span class="tag tag-safety">Water content</span>
             <span class="tag tag-safety">Mössbauer</span>
-            <a href="https://openreview.net/pdf?id=5HGu0ZqBl9" class="tag tag-arxiv">ARXIV</a>
         </div>
     </div>
 </div>
@@ -69,7 +67,6 @@
         <div class="publication-tags">
             <span class="tag tag-safety">Meteorite</span>
             <span class="tag tag-safety">IR Spectroscopy</span>
-            <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JE006827" class="tag tag-arxiv">ARXIV</a>
         </div>
     </div>
 </div>
