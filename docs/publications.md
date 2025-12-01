@@ -13,8 +13,6 @@
     <!-- ======================= -->
     <div class="swiper-slide">
 
-### 2024
-
 <div class="publication-card">
     <div class="publication-image">
         <img src="assets/maps14224-fig-0009-m.jpg" alt="Tarda">
@@ -70,8 +68,6 @@
     <!--        YEAR: 2021        -->
     <!-- ======================= -->
     <div class="swiper-slide">
-
-### 2021
 
 <div class="publication-card">
     <div class="publication-image">
