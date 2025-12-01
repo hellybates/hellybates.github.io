@@ -1,5 +1,5 @@
 <section id="publications" class="mb-16">
-  <div class="prose">
+  <div>
 
     <div class="swiper" id="pubSwiper">
       <div class="swiper-wrapper">
