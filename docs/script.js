@@ -727,7 +727,7 @@ prefersReducedMotion.addEventListener('change', () => {
     }
 });
 
-const swiper = new Swiper('.swiper', {
+const swiper = new Swiper('#pubSwiper', {
   slidesPerView: 1,
   spaceBetween: 20,
   navigation: {
