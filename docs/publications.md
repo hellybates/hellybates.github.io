@@ -1,4 +1,10 @@
 # Publications
+
+<div class="pub-year-tabs">
+  <button data-slide="0">2024</button>
+  <button data-slide="1">2021</button>
+</div>
+
 <div class="swiper" id="pubSwiper">
   <div class="swiper-wrapper">
 
