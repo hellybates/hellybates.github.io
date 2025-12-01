@@ -303,6 +303,9 @@ class MarkdownLoader {
                            window.pubSwiperInstance = new Swiper('#pubSwiper', {
                                 slidesPerView: 1,
                                 spaceBetween: 20,
+                                speed: 500, 
+                                effect: 'slide'
+                                fadeEffect: { crossFade: true },
                                 pagination: {
                                    el: '.swiper-pagination',
                                     clickable: true
