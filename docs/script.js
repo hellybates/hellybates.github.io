@@ -725,6 +725,7 @@ prefersReducedMotion.addEventListener('change', () => {
     } else {
         document.documentElement.style.setProperty('scroll-behavior', 'smooth');
     }
+});
 
 const swiper = new Swiper('.swiper', {
   slidesPerView: 1,
@@ -737,6 +738,5 @@ const swiper = new Swiper('.swiper', {
     el: '.swiper-pagination',
     clickable: true
   }
-});
     
 });
