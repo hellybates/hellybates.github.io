@@ -93,6 +93,37 @@
 
   </div>
 
+    <!-- ======================= -->
+    <!--        YEAR: 2020        -->
+    <!-- ======================= -->
+    <div class="swiper-slide">
+
+<div class="publication-card">
+    <div class="publication-image">
+        <img src="assets/maps13411-fig-0006-m.jpg" alt="Emissivity">
+    </div>
+    <div class="publication-content">
+        <h3 class="publication-title">
+            <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13411" class="publication-link">
+                Linking mineralogy and spectroscopy of highly aqueously altered CM and CI carbonaceous chondrites in preparation for primitive asteroid sample return
+            </a>
+        </h3>
+        <div class="publication-venue">Meteoritics and Planetary Science</div>
+        <div class="publication-authors">H. C. Bates, A. J. King, K. L. Donaldson Hanna, N. E. Bowles, S. S. Russell</div>
+        <div class="publication-year">2020</div>
+        <div class="publication-tags">
+            <span class="tag tag-safety">Meteorite</span>
+            <span class="tag tag-safety">IR Spectroscopy</span>
+            <span class="tag tag-safety">X-ray diffraction</span>
+        </div>
+    </div>
+</div>
+
+    </div>
+
+  </div>
+
+
   <!-- Pagination bullets -->
   <div class="swiper-pagination"></div>
 
