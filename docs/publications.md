@@ -1,6 +1,6 @@
 # Publications
 
-<div class="swiper">
+<div class="swiper", id="pubSwiper">
   <div class="swiper-wrapper">
 
     <div class="swiper-slide">
