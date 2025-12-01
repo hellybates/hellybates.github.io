@@ -1281,63 +1281,34 @@ html {
     width: 100%;
 }
 
-/* Make navigation arrows visible and above cards */
-#publications-content .swiper-button-next,
-#publications-content .swiper-button-prev {
-    color: var(--color-accent-2);
-    z-index: 20;
-}
-
-/* Make the arrow icons themselves a sensible size */
-#publications-content .swiper-button-next::after,
-#publications-content .swiper-button-prev::after {
-    font-size: 1.4rem;
-}
-
-/* Move arrows up to align with the year heading */
-#publications-content .swiper-button-prev,
-#publications-content .swiper-button-next {
-    top: 0.2rem;        /* adjust this value to match your heading height */
-    transform: none !important;
-    width: 32px;
-    height: 32px;
-}
-
-/* Position them left/right on the top line */
-#publications-content .swiper-button-prev {
-    left: 0;            /* you can nudge this with left: 0.5rem if needed */
-}
-
-#publications-content .swiper-button-next {
-    right: 0;
-}
-
-/* Optional – adjust arrow icon size */
-#publications-content .swiper-button-prev::after,
-#publications-content .swiper-button-next::after {
-    font-size: 1.2rem;
-}
-
 .pub-year-tabs {
     display: flex;
+    justify-content: center; 
     gap: 1rem;
     margin-bottom: 1.5rem;
 }
 
 .pub-year-tabs button {
     font-family: inherit;
+    font-size: 1rem;      
     background: transparent;
-    border: 1px solid var(--color-accent-2);
-    padding: 0.25rem 0.75rem;
+    border: 2px solid var(--color-accent-2);
+    padding: 0.5rem 1.25rem;
     border-radius: 6px;
     cursor: pointer;
-    transition: background 0.2s, color 0.2s;
+    transition: all 0.25s ease;
     color: var(--color-accent-2);
+}
+
+.pub-year-tabs button:hover {
+    background: var(--color-accent-2);
+    color: var(--color-bg-1);
 }
 
 .pub-year-tabs button.active {
     background: var(--color-accent-2);
     color: var(--color-bg-1);
+    border-color: var(--color-accent-1);
 }
 
 #publications-content .swiper-button-next,
