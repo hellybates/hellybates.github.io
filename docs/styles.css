@@ -1318,3 +1318,26 @@ html {
     font-size: 1.2rem;
 }
 
+.pub-year-tabs {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.pub-year-tabs button {
+    font-family: inherit;
+    background: transparent;
+    border: 1px solid var(--color-accent-2);
+    padding: 0.25rem 0.75rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.2s, color 0.2s;
+    color: var(--color-accent-2);
+}
+
+.pub-year-tabs button.active {
+    background: var(--color-accent-2);
+    color: var(--color-bg-1);
+}
+
+
