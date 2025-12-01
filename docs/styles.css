@@ -1264,20 +1264,40 @@ html {
     }
 }
 
-.swiper {
-  position: relative;
-  width: 100%;
+/* Make sure swiper container behaves nicely in your layout */
+#publications-content .swiper {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    padding: 1.5rem 0; /* bit of vertical breathing room */
 }
 
-.swiper-button-next,
-.swiper-button-prev {
-  color: var(--color-accent-2);
-  opacity: 1;
-  z-index: 10;
+/* Ensure slides lay out correctly */
+#publications-content .swiper-wrapper {
+    display: flex;
 }
 
-
-.swiper-pagination-bullet-active {
-  background: var(--color-accent-2);
+#publications-content .swiper-slide {
+    width: 100%;
 }
 
+/* Make navigation arrows visible and above cards */
+#publications-content .swiper-button-next,
+#publications-content .swiper-button-prev {
+    color: var(--color-accent-2);
+    z-index: 20;
+}
+
+/* Make the arrow icons themselves a sensible size */
+#publications-content .swiper-button-next::after,
+#publications-content .swiper-button-prev::after {
+    font-size: 1.4rem;
+}
+
+/* 🔍 Optional debug: uncomment temporarily if you still can't see them */
+/*
+#publications-content .swiper-button-next,
+#publications-content .swiper-button-prev {
+    background: rgba(255, 0, 0, 0.3);
+}
+*/
