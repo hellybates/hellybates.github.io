@@ -4,10 +4,11 @@
     <h1 class="title">Hi I'm Helena!</h1>
     <div class="about-socials" style="display:flex;gap:1.25rem;align-items:center;flex-wrap:wrap;margin-top:0.5rem;">
   <a href="https://www.nhm.ac.uk/our-science/people/helena-bates.html" style="display:inline-flex;align-items:center;gap:0.5rem;text-decoration:none;color:var(--color-accent-2);">
-    <svg width="16" height="16">       
-     <image xlink:href="Natural_History_Museum_London_logo_(large).svg" src="Natural_History_Museum_London_logo_(large).svg" width="16" height="16"/>    
-    </svg>
-  <span>NHM</span>
+    <img src="Natural_History_Museum_London_logo_(large).svg" 
+       alt="NHM logo" 
+       width="16" 
+       height="16">
+    <span>NHM</span>
   </a>
   <a href="https://scholar.google.com/citations?user=nP68JKQAAAAJ&hl=en" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:0.5rem;text-decoration:none;color:var(--color-accent-2);">
     <svg viewBox="0 0 24 24" role="img" aria-hidden="true" style="width:20px;height:20px;opacity:0.9;" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
