@@ -725,4 +725,17 @@ prefersReducedMotion.addEventListener('change', () => {
     } else {
         document.documentElement.style.setProperty('scroll-behavior', 'smooth');
     }
+
+const swiper = new Swiper('.swiper', {
+  slidesPerView: 1,
+  spaceBetween: 20,
+  navigation: {
+    nextEl: '.swiper-button-next',
+    prevEl: '.swiper-button-prev'
+  },
+  pagination: {
+    el: '.swiper-pagination',
+    clickable: true
+  }
+    
 });
