@@ -304,7 +304,7 @@ class MarkdownLoader {
                                 slidesPerView: 1,
                                 spaceBetween: 20,
                                 speed: 500, 
-                                effect: 'slide'
+                                effect: 'slide',
                                 fadeEffect: { crossFade: true },
                                 pagination: {
                                    el: '.swiper-pagination',
