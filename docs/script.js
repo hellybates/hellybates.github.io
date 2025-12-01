@@ -298,25 +298,41 @@ class MarkdownLoader {
                     }
                     if (section === 'publications' && typeof Swiper !== 'undefined') {
                         if (document.querySelector('#pubSwiper')) {
-                        // avoid double init
-                        if (window.pubSwiperInstance) {
-                            window.pubSwiperInstance.update();
-                        } else {
-                            window.pubSwiperInstance = new Swiper('#pubSwiper', {
+
+                            // init swiper
+                           window.pubSwiperInstance = new Swiper('#pubSwiper', {
                                 slidesPerView: 1,
                                 spaceBetween: 20,
-                                navigation: {
-                                    nextEl: '.swiper-button-next',
-                                    prevEl: '.swiper-button-prev'
-                                },
                                 pagination: {
-                                    el: '.swiper-pagination',
+                                   el: '.swiper-pagination',
                                     clickable: true
                                 }
                             });
-                        }
+
+                            // YEAR TABS
+                            const buttons = document.querySelectorAll('.pub-year-tabs button');
+
+                            // Switch slides when clicking tabs
+                            buttons.forEach(btn => {
+                                btn.addEventListener('click', () => {
+                                    const slide = parseInt(btn.dataset.slide, 10);
+                                    window.pubSwiperInstance.slideTo(slide);
+                                });
+                            });
+
+                        // Highlight active tab when slide changes
+                        window.pubSwiperInstance.on('slideChange', () => {
+                            const i = window.pubSwiperInstance.activeIndex;
+                            buttons.forEach((btn, idx) =>
+                                btn.classList.toggle('active', idx === i)
+                            );
+                        });
+
+                        // Set first tab as active
+                        buttons[0].classList.add('active');
                     }
                 }
+
                     console.log(`Successfully loaded ${section} from: ${fullPath}`);
                     return; // Success, exit early
                 } else {
