@@ -1263,3 +1263,13 @@ html {
         opacity: 0.8;
     }
 }
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: var(--color-accent-2);
+}
+
+.swiper-pagination-bullet-active {
+  background: var(--color-accent-2);
+}
+
