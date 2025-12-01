@@ -1264,10 +1264,18 @@ html {
     }
 }
 
+.swiper {
+  position: relative;
+  width: 100%;
+}
+
 .swiper-button-next,
 .swiper-button-prev {
   color: var(--color-accent-2);
+  opacity: 1;
+  z-index: 10;
 }
+
 
 .swiper-pagination-bullet-active {
   background: var(--color-accent-2);
