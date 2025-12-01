@@ -1294,10 +1294,27 @@ html {
     font-size: 1.4rem;
 }
 
-/* 🔍 Optional debug: uncomment temporarily if you still can't see them */
-/*
-#publications-content .swiper-button-next,
-#publications-content .swiper-button-prev {
-    background: rgba(255, 0, 0, 0.3);
+/* Move arrows up to align with the year heading */
+#publications-content .swiper-button-prev,
+#publications-content .swiper-button-next {
+    top: 0.2rem;        /* adjust this value to match your heading height */
+    transform: none !important;
+    width: 32px;
+    height: 32px;
 }
-*/
+
+/* Position them left/right on the top line */
+#publications-content .swiper-button-prev {
+    left: 0;            /* you can nudge this with left: 0.5rem if needed */
+}
+
+#publications-content .swiper-button-next {
+    right: 0;
+}
+
+/* Optional – adjust arrow icon size */
+#publications-content .swiper-button-prev::after,
+#publications-content .swiper-button-next::after {
+    font-size: 1.2rem;
+}
+
