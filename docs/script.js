@@ -296,6 +296,27 @@ class MarkdownLoader {
                     if (typeof window.applyBHoverEffect === 'function') {
                         window.applyBHoverEffect(contentElement);
                     }
+                    if (section === 'publications' && typeof Swiper !== 'undefined') {
+                        if (document.querySelector('#pubSwiper')) {
+                        // avoid double init
+                        if (window.pubSwiperInstance) {
+                            window.pubSwiperInstance.update();
+                        } else {
+                            window.pubSwiperInstance = new Swiper('#pubSwiper', {
+                                slidesPerView: 1,
+                                spaceBetween: 20,
+                                navigation: {
+                                    nextEl: '.swiper-button-next',
+                                    prevEl: '.swiper-button-prev'
+                                },
+                                pagination: {
+                                    el: '.swiper-pagination',
+                                    clickable: true
+                                }
+                            });
+                        }
+                    }
+                }
                     console.log(`Successfully loaded ${section} from: ${fullPath}`);
                     return; // Success, exit early
                 } else {
@@ -727,16 +748,3 @@ prefersReducedMotion.addEventListener('change', () => {
     }
 });
 
-const swiper = new Swiper('#pubSwiper', {
-  slidesPerView: 1,
-  spaceBetween: 20,
-  navigation: {
-    nextEl: '.swiper-button-next',
-    prevEl: '.swiper-button-prev'
-  },
-  pagination: {
-    el: '.swiper-pagination',
-    clickable: true
-  }
-    
-});
