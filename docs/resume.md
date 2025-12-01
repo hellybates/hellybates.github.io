@@ -40,8 +40,8 @@
     <span class="timeline-dot"></span>
     <div class="timeline-header">
       <span class="timeline-org">Imperial College London</span>
+        <span class="timeline-role">BSC & MSci Geophysics</span>
       <span class="timeline-dates">2012-2016</span>
     </div>
       <div class="timeline-meta">Governors' Prize in Geophysics</div>
-    <div class="timeline-desc">BSC & MSci Geophysics</span>.</div>
   </div>
