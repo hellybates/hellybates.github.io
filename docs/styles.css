@@ -1307,7 +1307,7 @@ html {
 
 .pub-year-tabs button.active {
     background: var(--color-accent-2);
-    color: var(--color-bg-1);
+    color: var(--color-card-bg);
     border-color: var(--color-accent-1);
 }
 
