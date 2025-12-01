@@ -1340,4 +1340,10 @@ html {
     color: var(--color-bg-1);
 }
 
+#publications-content .swiper-button-next,
+#publications-content .swiper-button-prev {
+    display: none !important;
+}
+
+
 
