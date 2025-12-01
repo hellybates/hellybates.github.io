@@ -4,7 +4,7 @@
     <h1 class="title">Hi I'm Helena!</h1>
     <div class="about-socials" style="display:flex;gap:1.25rem;align-items:center;flex-wrap:wrap;margin-top:0.5rem;">
   <a href="https://www.nhm.ac.uk/our-science/people/helena-bates.html" style="display:inline-flex;align-items:center;gap:0.5rem;text-decoration:none;color:var(--color-accent-2);">
-    <img src="Natural_History_Museum_London_logo_(large).svg" 
+    <img src="assets/Natural_History_Museum_London_logo_(large).svg" 
        alt="NHM logo" 
        width="16" 
        height="16">
