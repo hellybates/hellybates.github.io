@@ -3,6 +3,7 @@
 <div class="pub-year-tabs">
   <button data-slide="0">2024</button>
   <button data-slide="1">2021</button>
+  <button data-slide="2">2020</button>
 </div>
 
 <div class="swiper" id="pubSwiper">
