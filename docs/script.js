@@ -467,6 +467,43 @@ class MarkdownLoader {
 
     window.applyBHoverEffect = applyWordHoverEffect;
 })();
+// Bee spawning when clicking on a 'b'/'B'
+(function() {
+    function spawnBeeFromElement(el) {
+        const rect = el.getBoundingClientRect();
+        const startX = rect.left + rect.width / 2;
+        const startY = rect.top + rect.height / 2;
+
+        const bee = document.createElement('div');
+        bee.className = 'flying-bee';
+        bee.textContent = '⭐';
+        bee.style.left = startX + 'px';
+        bee.style.top = startY + 'px';
+
+        // Random off-screen direction
+        const angle = Math.random() * Math.PI * 2;
+        const distance = Math.max(window.innerWidth, window.innerHeight) + 200;
+        const dx = Math.cos(angle) * distance;
+        const dy = Math.sin(angle) * distance;
+        bee.style.setProperty('--dx', dx + 'px');
+        bee.style.setProperty('--dy', dy + 'px');
+
+        document.body.appendChild(bee);
+
+        const cleanup = () => {
+            if (bee && bee.parentNode) bee.parentNode.removeChild(bee);
+        };
+        bee.addEventListener('animationend', cleanup, { once: true });
+        setTimeout(cleanup, 4000);
+    }
+
+    document.addEventListener('click', (e) => {
+        const target = e.target;
+        if (target && target.classList && target.classList.contains('hover-word')) {
+            spawnBeeFromElement(target);
+        }
+    });
+})();
 
 
 // Initialize all functionality when DOM is loaded
