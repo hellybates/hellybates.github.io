@@ -304,6 +304,7 @@ class MarkdownLoader {
                                 slidesPerView: 1,
                                 spaceBetween: 20,
                                 speed: 500, 
+                                autoHeight: true,
                                 effect: 'slide',
                                 fadeEffect: { crossFade: true },
                                 pagination: {
