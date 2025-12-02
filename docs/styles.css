@@ -1349,6 +1349,17 @@ html {
     transition: height 0.3s ease;
 }
 
+.hover-word {
+    transition: text-shadow 0.25s ease, color 0.25s ease;
+    cursor: pointer;
+}
+
+.hover-word:hover {
+    color: var(--color-accent-2);
+    text-shadow: 0 0 6px var(--color-accent-2),
+                 0 0 12px var(--color-accent-2),
+                 0 0 18px var(--color-accent-2);
+}
 
 
 
