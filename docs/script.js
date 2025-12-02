@@ -410,9 +410,17 @@ class MarkdownLoader {
     }
 }
 
-// Hover effect for letter 'b' and 'B'
-(function() {
-    function applyBHoverEffect(root) {
+(function () {
+    // Change this to any word you want:
+    const triggerWord = "meteorite";
+    const triggerWord = "meteorites";// <<< your trigger word
+    const triggerWord = "asteroids";
+    const triggerWord = "asteroid";
+    const triggerWord = "Helena";  // also works!
+
+    const wordRegex = new RegExp(triggerWord, "gi"); // case-insensitive match
+
+    function applyWordHoverEffect(root) {
         const targetRoot = root || document.body;
         if (!targetRoot) return;
 
@@ -422,20 +430,20 @@ class MarkdownLoader {
             {
                 acceptNode(node) {
                     const value = node.nodeValue;
-                    if (!value || (value.indexOf('b') === -1 && value.indexOf('B') === -1)) {
+                    if (!value || !wordRegex.test(value)) {
                         return NodeFilter.FILTER_REJECT;
                     }
+
                     const parent = node.parentNode;
                     if (!parent) return NodeFilter.FILTER_REJECT;
+
                     const tag = parent.nodeName;
-                    if (tag === 'SCRIPT' || tag === 'STYLE' || tag === 'NOSCRIPT') {
+                    if (tag === "SCRIPT" || tag === "STYLE" || tag === "NOSCRIPT") {
                         return NodeFilter.FILTER_REJECT;
                     }
-                    if (parent.classList && parent.classList.contains('hover-b')) {
-                        return NodeFilter.FILTER_REJECT;
-                    }
+
                     return NodeFilter.FILTER_ACCEPT;
-                }
+                },
             }
         );
 
@@ -447,37 +455,26 @@ class MarkdownLoader {
 
         nodesToProcess.forEach((textNode) => {
             const text = textNode.nodeValue;
-            const fragment = document.createDocumentFragment();
-            let buffer = '';
 
-            for (let i = 0; i < text.length; i++) {
-                const ch = text[i];
-                if (ch === 'b' || ch === 'B') {
-                    if (buffer) {
-                        fragment.appendChild(document.createTextNode(buffer));
-                        buffer = '';
-                    }
-                    const span = document.createElement('span');
-                    span.className = 'hover-b';
-                    span.textContent = ch;
-                    fragment.appendChild(span);
-                } else {
-                    buffer += ch;
-                }
-            }
+            // Replace all occurrences of the word with a span wrapper
+            const html = text.replace(wordRegex, (match) => {
+                const span = `<span class="hover-word">${match}</span>`;
+                return span;
+            });
 
-            if (buffer) {
-                fragment.appendChild(document.createTextNode(buffer));
-            }
+            // Replace text node with HTML
+            const temp = document.createElement("span");
+            temp.innerHTML = html;
 
             if (textNode.parentNode) {
-                textNode.parentNode.replaceChild(fragment, textNode);
+                textNode.parentNode.replaceChild(temp, textNode);
             }
         });
     }
 
-    window.applyBHoverEffect = applyBHoverEffect;
+    window.applyBHoverEffect = applyWordHoverEffect;
 })();
+
 
 // Bee spawning when clicking on a 'b'/'B'
 (function() {
@@ -511,7 +508,7 @@ class MarkdownLoader {
 
     document.addEventListener('click', (e) => {
         const target = e.target;
-        if (target && target.classList && target.classList.contains('hover-b')) {
+        if (target && target.classList && target.classList.contains('hover-word')) {
             spawnBeeFromElement(target);
         }
     });
