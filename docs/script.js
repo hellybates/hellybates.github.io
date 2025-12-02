@@ -411,11 +411,9 @@ class MarkdownLoader {
 }
 
 (function () {
-    // Change this to any word you want:
-    const triggerWord = "meteorite";
-
-
-    const wordRegex = new RegExp(triggerWord, "gi"); // case-insensitive match
+    // ✨ Add as many trigger words as you like:
+    const triggerWords = ["meteorite", "meteorites", "asteroid", "asteroids"];
+    const wordRegex = new RegExp(`\\b(${triggerWords.join("|")})\\b`, "gi");
 
     function applyWordHoverEffect(root) {
         const targetRoot = root || document.body;
@@ -453,13 +451,11 @@ class MarkdownLoader {
         nodesToProcess.forEach((textNode) => {
             const text = textNode.nodeValue;
 
-            // Replace all occurrences of the word with a span wrapper
+            // Replace each matched word with a span
             const html = text.replace(wordRegex, (match) => {
-                const span = `<span class="hover-word">${match}</span>`;
-                return span;
+                return `<span class="hover-word">${match}</span>`;
             });
 
-            // Replace text node with HTML
             const temp = document.createElement("span");
             temp.innerHTML = html;
 
@@ -472,44 +468,6 @@ class MarkdownLoader {
     window.applyBHoverEffect = applyWordHoverEffect;
 })();
 
-
-// Bee spawning when clicking on a 'b'/'B'
-(function() {
-    function spawnBeeFromElement(el) {
-        const rect = el.getBoundingClientRect();
-        const startX = rect.left + rect.width / 2;
-        const startY = rect.top + rect.height / 2;
-
-        const bee = document.createElement('div');
-        bee.className = 'flying-bee';
-        bee.textContent = '⭐';
-        bee.style.left = startX + 'px';
-        bee.style.top = startY + 'px';
-
-        // Random off-screen direction
-        const angle = Math.random() * Math.PI * 2;
-        const distance = Math.max(window.innerWidth, window.innerHeight) + 200;
-        const dx = Math.cos(angle) * distance;
-        const dy = Math.sin(angle) * distance;
-        bee.style.setProperty('--dx', dx + 'px');
-        bee.style.setProperty('--dy', dy + 'px');
-
-        document.body.appendChild(bee);
-
-        const cleanup = () => {
-            if (bee && bee.parentNode) bee.parentNode.removeChild(bee);
-        };
-        bee.addEventListener('animationend', cleanup, { once: true });
-        setTimeout(cleanup, 4000);
-    }
-
-    document.addEventListener('click', (e) => {
-        const target = e.target;
-        if (target && target.classList && target.classList.contains('hover-word')) {
-            spawnBeeFromElement(target);
-        }
-    });
-})();
 
 // Initialize all functionality when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
