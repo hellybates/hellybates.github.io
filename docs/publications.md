@@ -28,6 +28,7 @@
         <div class="publication-authors">H. C. Bates, R. Aspin, C. Y. Fu, C. S. Harrison, E. Feaver, E. Branagan-Harris, A. J. King, J. F. J. Bryson, S. Sridhar, C. I. O. Nichols</div>
         <div class="publication-year">2024</div>
         <div class="publication-tags">
+            <span class="tag tag-interpretability">1st author</span>
             <span class="tag tag-safety">Meteorite</span>
             <span class="tag tag-safety">X-ray diffraction</span>
             <span class="tag tag-safety">Electron microscopy</span>
@@ -52,6 +53,7 @@
         <div class="publication-authors">H. C. Bates, A. J. King, K. S. Shirley, E. Bonsall, C. Schröder, F. Wombacher, T. Fockenberg, R. J. Curtis, N. E. Bowles</div>
         <div class="publication-year">2024</div>
         <div class="publication-tags">
+            <span class="tag tag-interpretability">1st author</span>
             <span class="tag tag-safety">Meteorite</span>
             <span class="tag tag-safety">X-ray diffraction</span>
             <span class="tag tag-safety">Element Analysis</span>
@@ -84,6 +86,7 @@
         <div class="publication-authors">H. C. Bates, K. L. Donaldson Hanna, A. J. King, N. E. Bowles, S. S. Russell</div>
         <div class="publication-year">2021</div>
         <div class="publication-tags">
+            <span class="tag tag-interpretability">1st author</span>
             <span class="tag tag-safety">Meteorite</span>
             <span class="tag tag-safety">IR Spectroscopy</span>
         </div>
@@ -111,6 +114,7 @@
         <div class="publication-authors">H. C. Bates, A. J. King, K. L. Donaldson Hanna, N. E. Bowles, S. S. Russell</div>
         <div class="publication-year">2020</div>
         <div class="publication-tags">
+            <span class="tag tag-interpretability">1st author</span>
             <span class="tag tag-safety">Meteorite</span>
             <span class="tag tag-safety">IR Spectroscopy</span>
             <span class="tag tag-safety">X-ray diffraction</span>
