@@ -1345,5 +1345,10 @@ html {
                 transform 0.2s ease;
 }
 
+#pubSwiper {
+    transition: height 0.3s ease;
+}
+
+
 
 
