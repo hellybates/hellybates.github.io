@@ -413,10 +413,7 @@ class MarkdownLoader {
 (function () {
     // Change this to any word you want:
     const triggerWord = "meteorite";
-    const triggerWord = "meteorites";// <<< your trigger word
-    const triggerWord = "asteroids";
-    const triggerWord = "asteroid";
-    const triggerWord = "Helena";  // also works!
+
 
     const wordRegex = new RegExp(triggerWord, "gi"); // case-insensitive match
 
