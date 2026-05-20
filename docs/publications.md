@@ -1,13 +1,63 @@
 # Publications
 
 <div class="pub-year-tabs">
-  <button data-slide="0">2024</button>
-  <button data-slide="1">2021</button>
-  <button data-slide="2">2020</button>
+  <button data-slide="0">2026</button>
+  <button data-slide="1">2024</button>
+  <button data-slide="2">2021</button>
+  <button data-slide="3">2020</button>
 </div>
 
 <div class="swiper" id="pubSwiper">
   <div class="swiper-wrapper">
+
+      <!-- ======================= -->
+    <!--        YEAR: 2026        -->
+    <!-- ======================= -->
+    <div class="swiper-slide">
+
+<div class="publication-card">
+    <div class="publication-image">
+        <img src="assets/jgre21683-fig-0002-m.jpg" alt="Emissivity">
+    </div>
+    <div class="publication-content">
+        <h3 class="publication-title">
+            <a href="https://iopscience.iop.org/article/10.3847/PSJ/ae5931/meta" class="publication-link">
+                Spectral Similarity in the Thermal Infrared between Sulfide-rich Carbonaceous Chondrite Meteorites, Jupiter Trojans, and Other D- and P-type Asteroids
+            </a>
+        </h3>
+        <div class="publication-venue">The Planetary Science Journal</div>
+        <div class="publication-authors">H. C. Bates, A. J. King, K. L. Donaldson Hanna, A. C. Martin, J. P. Emery, N. E. Bowles, S. S. Russell</div>
+        <div class="publication-year">2026</div>
+        <div class="publication-tags">
+            <span class="tag tag-interpretability">1st author</span>
+            <span class="tag tag-safety">Meteorite</span>
+            <span class="tag tag-safety">Asteroids</span>
+            <span class="tag tag-safety">IR Spectroscopy</span>
+        </div>
+    </div>
+</div>
+
+<div class="publication-card">
+    <div class="publication-image">
+        <img src="assets/jgre21683-fig-0002-m.jpg" alt="Emissivity">
+    </div>
+    <div class="publication-content">
+        <h3 class="publication-title">
+            <a href="https://www.nature.com/articles/s41467-026-72265-3" class="publication-link">
+                Asteroid sample return missions are critical for understanding our Solar System
+            </a>
+        </h3>
+        <div class="publication-venue">Nature Communications</div>
+        <div class="publication-authors">H. C. Bates</div>
+        <div class="publication-year">2026</div>
+        <div class="publication-tags">
+            <span class="tag tag-interpretability">1st author</span>
+            <span class="tag tag-safety">Asteroids</span>
+        </div>
+    </div>
+</div>
+
+    </div>
 
     <!-- ======================= -->
     <!--        YEAR: 2024        -->
