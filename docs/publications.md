@@ -17,7 +17,7 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="assets/EmissivityReflectanceTrojans.pdf" alt="CY-Trojans">
+        <img src="assets/EmissivityReflectanceTrojans.jpg" alt="CY-Trojans">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
